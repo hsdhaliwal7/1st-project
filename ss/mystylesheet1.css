@@ -13,6 +13,8 @@ h2{
  	background-color: lightgrey;
 	width: 275px;
 	margin: auto;
+  	text-align: center;
+	color: blue;
 }
 
 p{
